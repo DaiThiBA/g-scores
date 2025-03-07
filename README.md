@@ -15,7 +15,7 @@
 
 1. **Clone repository** về máy:
    ```bash
-   git clone https://github.com/tenban/g-scores.git
+   git clone https://github.com/DaiThiBA/g-scores.git
    ```
 
 2. **Cài đặt các gói Composer**:
@@ -61,13 +61,6 @@ Truy cập trang web tại: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 Bạn có thể xem video demo về dự án tại link dưới đây:
 
-[![YouTube Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![YouTube Demo](https://youtu.be/DVmAiXIoDBc)
 
-*(Thay `VIDEO_ID` bằng ID video YouTube thực tế.)*
-
----
-
-## 5. Liên hệ
-
-Nếu bạn gặp bất kỳ vấn đề hoặc có góp ý, vui lòng tạo **Issue** trên repository hoặc liên hệ email của tôi.
 
