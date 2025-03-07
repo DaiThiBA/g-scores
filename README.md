@@ -61,6 +61,6 @@ Truy cập trang web tại: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 Bạn có thể xem video demo về dự án tại link dưới đây:
 
-[![YouTube Demo](https://youtu.be/DVmAiXIoDBc)
+[![YouTube Demo]([https://youtu.be/DVmAiXIoDBc](https://www.youtube.com/watch?v=DVmAiXIoDBc&ab_channel=thiqu%C3%A3ng)
 
 
